@@ -1,0 +1,1 @@
+- [shakespeare.txt](https://github.com/karpathy/ng-video-lecture/blob/master/input.txt)
